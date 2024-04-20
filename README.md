@@ -1,6 +1,7 @@
 <div style="display: inline;">
   
-  ### 𝙃𝙚𝙡𝙡𝙤, 𝙩𝙝𝙚𝙧𝙚 𝙄'𝙢 <img src="https://i.pinimg.com/originals/0d/9d/c0/0d9dc0e014e173618adcf22fa8f47a9c.gif" alt="Description of the GIF" width="5%"></div>
+  ### 𝙃𝙚𝙡𝙡𝙤, 𝙩𝙝𝙚𝙧𝙚 𝙄'𝙢 <img src="https://i.pinimg.com/originals/0d/9d/c0/0d9dc0e014e173618adcf22fa8f47a9c.gif" alt="Description of the GIF" width="5%"> <img src="https://i.pinimg.com/564x/4d/3c/46/4d3c46a6255976ef1f923b80985eece2.jpg" alt="Description of the image" width="270" align="right">
+  </div> 
 <br><br>
 
   <div align="center">
@@ -8,7 +9,6 @@
 # ꧁༺ 𝓜𝓪𝓵𝔂 ༻꧂ 
     
 </div>
-<img src="https://i.pinimg.com/564x/4d/3c/46/4d3c46a6255976ef1f923b80985eece2.jpg" alt="Description of the image" width="270" align="lift">
 
   <div align="center">
     
