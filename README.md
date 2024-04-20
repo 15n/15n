@@ -1,8 +1,9 @@
-### Hi there 👋
+#### Hello, there I'm 👋
 <div align="center">
-<img src="https://i.pinimg.com/originals/87/8e/f1/878ef1a501fbe2d178fcb1e29dda9d20.gif" alt="Animated GIF"  width="30%"/>
+  <h1>꧁༺ 𝓜𝓪𝓵𝔂 ༻꧂</h1>
+<img src="https://i.pinimg.com/originals/87/8e/f1/878ef1a501fbe2d178fcb1e29dda9d20.gif" alt="Animated GIF"  width="20%"/>
 
-## Programming Languages
+### Programming Languages
 <div style="display=inline">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px;" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px;" />
