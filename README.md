@@ -1,6 +1,8 @@
 ### Hi there 👋
+<div align="center">
+<img src="https://i.pinimg.com/originals/87/8e/f1/878ef1a501fbe2d178fcb1e29dda9d20.gif" alt="Animated GIF"  width="30%"/>
+
 ## Programming Languages
-<hr style="border: none; height: 1px; background-color: red;">
 <div style="display=inline">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px;" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px;" />
@@ -13,6 +15,7 @@
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true&quote=Software%20is%20like%20sex%3A%20it%E2%80%99s%20better%20when%20it%E2%80%99s%20free.&author=Linus%20Torvalds" alt="Readme Quotes" align="center" />
 </a>
+</div>
 <!--
 **15n/15n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
