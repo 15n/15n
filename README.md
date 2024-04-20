@@ -1,5 +1,6 @@
 ### Hi there 👋
 ## Programming Languages
+<hr style="border: none; height: 1px; background-color: red;">
 <div style="display=inline">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px;" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px;" />
