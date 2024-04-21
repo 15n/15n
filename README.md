@@ -5,8 +5,8 @@
 <br><br>
 
   <div align="center">
-    
-# ꧁༺ 𝓜𝓪𝓵𝔂 ༻꧂ 
+    <img src="Maly Text.png" alt="Description of the image" width="30%">
+
     
 </div>
 
