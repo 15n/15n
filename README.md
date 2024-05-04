@@ -1,6 +1,6 @@
 <div style="display: inline;">
   
-  ### 𝙃𝙚𝙡𝙡𝙤, 𝙩𝙝𝙚𝙧𝙚 𝙄'𝙢 <img src="https://i.pinimg.com/originals/0d/9d/c0/0d9dc0e014e173618adcf22fa8f47a9c.gif" alt="Description of the GIF" width="5%"> 
+  ### 𝙃𝙚𝙡𝙡𝙤, 𝙩𝙝𝙚𝙧𝙚 𝙄'𝙢 <img src="https://i.pinimg.com/originals/0d/9d/c0/0d9dc0e014e173618adcf22fa8f47a9c.gif" alt="Description of the GIF" width="5%">  $Maly
 
       _                ___       _.--.
     \`.|\..----...-'`   `-._.-'_.-'`
@@ -11,11 +11,7 @@
        {_.-``-'         {_/
   </div> 
 <br><br>
-  <div align="center">
-    
-  #  Maly
 
-</div>
 
   <div align="center">
     
