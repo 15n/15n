@@ -1,7 +1,10 @@
 <div style="display: inline;">
   
   ### 𝙃𝙚𝙡𝙡𝙤, 𝙩𝙝𝙚𝙧𝙚 𝙄'𝙢 <img src="https://i.pinimg.com/originals/0d/9d/c0/0d9dc0e014e173618adcf22fa8f47a9c.gif" alt="Description of the GIF" width="5%">  $Maly
+  </div> 
 
+
+    
       _                ___       _.--.
     \`.|\..----...-'`   `-._.-'_.-'`
     /  ' `         ,       __.--'
@@ -9,11 +12,11 @@
     `-'" `"\_  ,_.-;_.-\_ ',     fsc/as
         _.-'_./   {_.'   ; /
        {_.-``-'         {_/
-  </div> 
+
 <br><br>
 
 
-  <div align="center">
+
     
 ### Programming Languages
 <div style="display=inline">
@@ -25,10 +28,13 @@
 </div>
 <br>
 <br>
-<a href="https://github.com/piyushsuthar/github-readme-quotes">
+
+![Downloaded](https://github.com/15n/15n/assets/97814232/57295955-57a8-470f-bfb3-5eb1a6d7b3b3)
+
+<!--<a href="https://github.com/piyushsuthar/github-readme-quotes">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true&quote=Software%20is%20like%20sex%3A%20it%E2%80%99s%20better%20when%20it%E2%80%99s%20free.&author=Linus%20Torvalds" alt="Readme Quotes" align="center" />
-</a>
-</div>
+</a>-->
+
 <!--
 **15n/15n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
