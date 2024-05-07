@@ -30,7 +30,7 @@
 <br>
 <br>
 
-![Downloaded](https://github.com/15n/15n/assets/97814232/57295955-57a8-470f-bfb3-5eb1a6d7b3b3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=15n&layout=compact&theme=dracula)
 
 </div>
 
